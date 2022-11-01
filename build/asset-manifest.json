@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0237ce25.css",
+    "main.js": "/static/js/main.f13e008e.js",
+    "static/media/baner2.jpg": "/static/media/baner2.7dbbccc001597f57f24c.jpg",
+    "static/media/Banner_Llego_Modelo3.png": "/static/media/Banner_Llego_Modelo3.9dba055873abf01e2512.png",
+    "static/media/checkgif.gif": "/static/media/checkgif.cc215a4522cae26243a0.gif",
+    "static/media/Banner_Llego_Modelo2.png": "/static/media/Banner_Llego_Modelo2.f51b947c86ee9368edef.png",
+    "static/media/Banner_Llego_Modelo1.png": "/static/media/Banner_Llego_Modelo1.e6f094e099d864042605.png",
+    "static/media/canasta1.png": "/static/media/canasta1.864b61bd3003231955c8.png",
+    "static/media/farmacia.png": "/static/media/farmacia.17366bed54da2a37da16.png",
+    "static/media/burguerking.png": "/static/media/burguerking.65548375370af3316281.png",
+    "static/media/dominos.png": "/static/media/dominos.bb1b52efff6b7a9c84e8.png",
+    "static/media/whatsApp.png": "/static/media/whatsApp.0ad84fdf52b10a90d6fd.png",
+    "static/media/visa.png": "/static/media/visa.8c99d765a2381b28210f.png",
+    "static/media/img-error.png": "/static/media/img-error.551291a28ff7df7528d3.png",
+    "static/media/portada.jpeg": "/static/media/portada.3ef11b1a94020edb6408.jpeg",
+    "static/media/logovertical.PNG": "/static/media/logovertical.8e85c58cd5fb74b85101.PNG",
+    "static/media/mc-donals.png": "/static/media/mc-donals.47f1b703a4bb202e160a.png",
+    "static/media/mascotas.png": "/static/media/mascotas.339aa9dab01aef3379d4.png",
+    "static/media/logollego.PNG": "/static/media/logollego.30e4b6f95539663852ce.PNG",
+    "static/media/canasta.png": "/static/media/canasta.f2fb43ae3ec4e39820cc.png",
+    "static/media/mastercard.png": "/static/media/mastercard.1b21be8a391f05f89fb4.png",
+    "static/media/bebidas.png": "/static/media/bebidas.8a40069555aa5e61b758.png",
+    "static/media/Junk-Food-Transparent-Background.png": "/static/media/Junk-Food-Transparent-Background.9f8e11fb785155ad7b46.png",
+    "static/media/envios.png": "/static/media/envios.1b40fb21211a9a51fbb7.png",
+    "static/media/carrito.png": "/static/media/carrito.10cb59265b56dbf40b57.png",
+    "static/media/venue_location_icon.svg": "/static/media/venue_location_icon.4f0fdd5bf41f1806927120c5ccba6e69.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.0237ce25.css.map": "/static/css/main.0237ce25.css.map",
+    "main.f13e008e.js.map": "/static/js/main.f13e008e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0237ce25.css",
+    "static/js/main.f13e008e.js"
+  ]
+}
